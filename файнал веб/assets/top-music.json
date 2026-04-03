@@ -1,0 +1,5 @@
+[
+  { "id": "t1", "title": "Memories — Maroon 5", "artist": "Maroon 5", "duration": "04:20", "art": "assets/images/memories.jpg" },
+  { "id": "t2", "title": "Bad Guy — Billie Eilish", "artist": "Billie Eilish", "duration": "03:14", "art": "assets/images/bad_guy.jpg" },
+  { "id": "t3", "title": "Blinding Lights — The Weeknd", "artist": "The Weeknd", "duration": "03:22", "art": "assets/images/blinding_lights.jpg" }
+]
